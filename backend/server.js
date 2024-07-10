@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 const allowedOrigins = [
   'http://localhost:3000', // Local development
-  // 'https://sirocco-code.vercel.app', // Vercel deploymment
+  'https://empty-henna.vercel.app/', // Vercel deploymment
 ];
 
 const corsOptions = {
