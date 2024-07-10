@@ -1,0 +1,11 @@
+.live_events_wrapper{
+    position: relative;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+}
+
+.live_events_content{
+    width: 80%;
+    text-align: center;
+}

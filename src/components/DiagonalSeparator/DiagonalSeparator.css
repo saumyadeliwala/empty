@@ -1,0 +1,8 @@
+/* components/DiagonalSeparator/DiagonalSeparator.css */
+.separator {
+    width: 0;
+    height: 0;
+    border-left: 100vw solid transparent;
+    border-top: 5vw solid rgb(255, 241, 228);
+    /* border: 2px solid black; */
+}
